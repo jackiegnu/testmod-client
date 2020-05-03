@@ -1,0 +1,6 @@
+github.com/jackiegnu/testmod v1.0.1 h1:4FPxvFujJKca2M7671dKw3idNYjSUxOkUk7sfsYvwXg=
+github.com/jackiegnu/testmod v1.0.1/go.mod h1:DyQI5073M9ExlR6FZvjdJSvvuQsN/IgTI5awvUtrfgU=
+github.com/jackiegnu/testmod/v2 v2.0.0 h1:D858T3kSq9W0DLuwAdPTcTGjP4P1Ca+q4NwBGldrZpc=
+github.com/jackiegnu/testmod/v2 v2.0.0/go.mod h1:qmJfIU1Jd+M6e/6iQysIU74nYGRx+2R6zqy22wRhieA=
+github.com/jackiegnu/testmod/v3 v3.0.1 h1:kHqwWycyBfazwcSMuSczz5wx2Q70RoGvDN/asTccOGY=
+github.com/jackiegnu/testmod/v3 v3.0.1/go.mod h1:l1m0X6HFkbk8s/nJXqOt6geYeHxbby8hazZ4qXj4Cp8=
